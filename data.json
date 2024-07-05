@@ -1,0 +1,59 @@
+{
+    "data" :{
+            "DSA" : [
+                {
+                    "id": "DSA1",
+                    "title": "Complete C++ Placement DSA Course",
+                    "description": "This course covers all the important topics for DSA in detail needed for Placements.",
+                    "image": {
+                    "url": "https://i.ytimg.com/vi/WQoB2z67hvY/maxresdefault.jpg",
+                    "alt": "DSA by Love Babbar"
+                    }
+                }
+            ],
+            "Development" : [
+                {
+                    "id": "WD1",
+                    "title": "Complete Web Dev using MERN stack",
+                    "description": "Looking to become a Full Stack Web Developer using MERN stack? You've come to the right place! In this tutorial series, we'll cover everything you need to know to become a Full Stack Web Developer using MongoDB, Express, React, and Node.js.",
+                    "image": {
+                    "url": "https://i.ytimg.com/vi/Vi9bxu-M-ag/maxresdefault.jpg",
+                    "alt": "WebD by Love Babbar"
+                    }
+                }
+            ],
+            "DBMS": [
+                {
+                    "id": "DB1",
+                    "title": "Complete DBMS in 1 Video (With Notes) || For Placement Interviews",
+                    "description": "In this comprehensive video, we cover all the essential topics required to excel in DBMS for placements. Explore the architecture of DBMS, understand the principles of normalization, learn about indexing techniques, delve into partitioning and sharding strategies, and discover effective scaling techniques. Gain a deep understanding of these core concepts that are often tested in technical interviews. Whether you're a beginner or want to refresh your DBMS knowledge, this video has got you covered.",
+                    "image": {
+                    "url": "https://i.ytimg.com/vi/dl00fOOYLOM/maxresdefault.jpg",
+                    "alt": "DBMS by Love Babbar"
+                    }
+                }
+            ],
+            "OS":[
+                {
+                    "id": "OS1",
+                    "title": "Operating Systems for Placements 2022",
+                    "description": "Get complete in-depth comprehensive knowledge of Operating System Course fully focused on Cracking the Technical Interviews of Product based companies.",
+                    "image": {
+                    "url": "https://i.ytimg.com/vi/_TpOHMCODXo/maxresdefault.jpg",
+                    "alt": "OS By Love Babbar"
+                    }
+                }
+        ],
+        "CN": [
+            {
+                "id": "CN1",
+                "title": "Computer Networking Course: Master Computer Networking",
+                "description": "Scaler Topics Computer Networks Course is a valuable resource that provides a deep understanding of the fundamental concepts and principles underlying computer networks. Designed for beginners and individuals with limited networking experience, this course aims to equip you with the necessary skills to excel in this exciting domain.",
+                "image": {
+                "url": "https://res.cloudinary.com/da1swekdk/image/upload/v1719989481/course_listing_136_srikanth_varma_webp-ezgif.com-webp-to-jpg-converter_toe97o.jpg",
+                "alt": "CN"
+                }
+            }
+        ]
+    }
+}
