@@ -8,7 +8,8 @@
                     "image": {
                     "url": "https://i.ytimg.com/vi/WQoB2z67hvY/maxresdefault.jpg",
                     "alt": "DSA by Love Babbar"
-                    }
+                    },
+                    "link":"https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
                 }
             ],
             "Development" : [
@@ -19,7 +20,8 @@
                     "image": {
                     "url": "https://i.ytimg.com/vi/Vi9bxu-M-ag/maxresdefault.jpg",
                     "alt": "WebD by Love Babbar"
-                    }
+                    },
+                    "link":"https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD"
                 }
             ],
             "DBMS": [
@@ -30,7 +32,8 @@
                     "image": {
                     "url": "https://i.ytimg.com/vi/dl00fOOYLOM/maxresdefault.jpg",
                     "alt": "DBMS by Love Babbar"
-                    }
+                    },
+                    "link":"https://youtu.be/dl00fOOYLOM?si=0kz2Dj64iMinD0aZ"
                 }
             ],
             "OS":[
@@ -41,7 +44,8 @@
                     "image": {
                     "url": "https://i.ytimg.com/vi/_TpOHMCODXo/maxresdefault.jpg",
                     "alt": "OS By Love Babbar"
-                    }
+                    },
+                    "link":"https://youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG&si=bbWS5cECgQswEQEp"
                 }
         ],
         "CN": [
@@ -52,7 +56,8 @@
                 "image": {
                 "url": "https://res.cloudinary.com/da1swekdk/image/upload/v1719989481/course_listing_136_srikanth_varma_webp-ezgif.com-webp-to-jpg-converter_toe97o.jpg",
                 "alt": "CN"
-                }
+                },
+                "link":"https://www.scaler.com/topics/course/free-computer-networks-course/"
             }
         ]
     }
