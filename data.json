@@ -10,6 +10,16 @@
                     "alt": "DSA by Love Babbar"
                     },
                     "link":"https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
+                },
+                {
+                    "id": "DSA2",
+                    "title": "Strivers A2Z-DSA Course | DSA Playlist | Placements",
+                    "description": "This playlist is not in C++ or Java or Python, it covers DSA and we write pseudocode, only one video is in C++, for the basics, but apart from that we cover everything in depth.",
+                    "image": {
+                    "url": "https://i.ytimg.com/vi/0bHoB32fuj0/maxresdefault.jpg",
+                    "alt": "DSA by Striver"
+                    },
+                    "link":"https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=wdypFKcNHECSnjZZ"
                 }
             ],
             "Development" : [
